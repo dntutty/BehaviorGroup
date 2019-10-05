@@ -1,0 +1,17 @@
+ext{
+
+    androidv = [
+            compileSdkVersion : 28,
+            minSdkVersion     : 21,
+            targetSdkVersion  : 28,
+            buildToolsVersion : "28.0.3",
+    ]
+
+    androidx = [
+            appcompat        : "1.1.0-beta01", // api "androidx.appcompat:appcompat:$androidx.appcompat"
+            constraintlayout : "1.1.3",        // api "androidx.constraintlayout:constraintlayout:$androidx.constraintlayout"
+            recyclerview     : "1.0.0",        // api "androidx.recyclerview:recyclerview:$androidx.recyclerview"
+            material         : "1.0.0",        // api "com.google.android.material:material:$androidx.material"
+
+    ]
+}
