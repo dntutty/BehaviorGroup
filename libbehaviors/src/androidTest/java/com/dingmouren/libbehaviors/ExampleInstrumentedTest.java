@@ -1,4 +1,4 @@
-package com.dingmouren.libbehaviorgroup;
+package com.dingmouren.libbehaviors;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.dingmouren.libbehaviorgroup.test", appContext.getPackageName());
+        assertEquals("com.dingmouren.libbehaviors.test", appContext.getPackageName());
     }
 }

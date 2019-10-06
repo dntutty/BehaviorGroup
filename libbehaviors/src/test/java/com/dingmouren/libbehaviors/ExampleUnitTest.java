@@ -1,4 +1,4 @@
-package com.dingmouren.libbehaviorgroup;
+package com.dingmouren.libbehaviors;
 
 import org.junit.Test;
 

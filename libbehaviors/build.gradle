@@ -1,9 +1,6 @@
 apply plugin: 'com.android.library'
-
-
 def androidv = rootProject.ext.androidv
 def androidx = rootProject.ext.androidx
-
 android {
     compileSdkVersion androidv.compileSdkVersion
     buildToolsVersion androidv.buildToolsVersion

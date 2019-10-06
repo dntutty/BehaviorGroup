@@ -1,1 +1,1 @@
-include ':app', ':libbehaviorgroup'
+include ':app', ':libbehaviors'

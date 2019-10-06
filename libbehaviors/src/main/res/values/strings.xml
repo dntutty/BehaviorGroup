@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">libbehaviors</string>
+    <string name="spring_behavior">com.google.android.material.appbar.SpringBehavior</string>
+</resources>
